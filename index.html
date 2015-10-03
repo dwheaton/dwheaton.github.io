@@ -1,0 +1,33 @@
+Setting up github pages blog on Ubuntu 14.04
+============================================
+
+
+1 - Prerequisites: urgent need for blogging, ruby >= 2.0, github account (free)
+------------------------------------------------------------------------------
+
+Okay so let's say you are like me and you want to create a blog and you're tired of WordPress or whatever and just want a simple way to hack out some notes and stuff in your favorite editor and post it easily for posterity.  I'm running Ubuntu 14.04 at the moment so these instructions are specific to that but this stuff is pretty platform agnostic. Hopefully you know some [markdown](https://daringfireball.net/projects/markdown/syntax) but don't worry, you'll pick it up (I'm currently barely proficient with MD).
+
+First install Ruby >= 2.0 - http://askubuntu.com/a/452293/62223
+	`sudo add-apt-repository ppa:brightbox/ruby-ng
+	sudo apt-get update
+	sudo apt-get install ruby2.2`
+
+You'll also need this to install github-pages (needed to build native extensions)
+	`sudo apt-get install ruby-dev`
+
+2 - Basic setup
+---------------
+Follow github pages setup instructions to create repo (add license, README, etc) then clone - https://pages.github.com/
+	my github username is 'dwheaton' so I'll give the commands I used and you'll want to substitute your username...
+	First I created the dwheaton.github.io repository
+	I immediately regretted not taking github up on the offer to add LICENSE.md, README.md, and .gitignore files when I had to create them manually
+	Then on my local system I cloned the new repo with: `git clone https://github.com/dwheaton/dwheaton.github.io`
+	Immediately start hacking out the index.html file with instructions on how to do this.
+
+
+3 - Jeckyll
+-----------
+Follow using Jekyll with github pages instructions (Gemfile, etc) - https://help.github.com/articles/using-jekyll-with-pages/
+	sudo gem install bundler
+	Setup Gemfile with github-pages
+	bundle install
