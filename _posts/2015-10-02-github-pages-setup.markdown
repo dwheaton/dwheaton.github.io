@@ -51,12 +51,14 @@ You'll need to follow these [github pages setup instructions](https://pages.gith
 3 - Install and configure Jekyll
 -----------
 
-Okay so let's face it: your site needs some work! Enter [Jekyll](https://jekyllrb.com/) which "is a blog-aware, static site generator..." and as such will hopefully make your life easier and more convenient. Sure you could skip this but then you don't get any help from a framework and you're unable to easily preview your changes easily before committing them to github.
+Okay so let's face it: your site needs some work!
+
+Enter [Jekyll](https://jekyllrb.com/) which "is a blog-aware, static site generator" and as such will hopefully make your life easier and more convenient. Sure you could skip this but then you don't get any help from a framework and you're unable to easily preview your changes easily before committing them to github.
 
 This tutorial helped to get me started:
 
 * [Build A Blog With Jekyll And GitHub Pages - smashingmagazine.com](http://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
-* If you want a much easier quick-start process then head over to [barryclark/jekyll-now · GitHub](https://github.com/barryclark/jekyll-now) to "Build a Jekyll blog in minutes, without touching the command line."
+* If you want a much easier quick-start process then head over to [barryclark/jekyll-now · GitHub](https://github.com/barryclark/jekyll-now) to "Build a Jekyll blog in minutes, without touching the command line." If you got this far you're probably comfortable with the command line and reading the docs yourself so I suggest forging on and embracing the command line.
 
 Follow [Using Jekyll with Pages - User Documentation - GitHub Help](https://help.github.com/articles/using-jekyll-with-pages/) instructions:
 
@@ -64,12 +66,15 @@ Follow [Using Jekyll with Pages - User Documentation - GitHub Help](https://help
 	Setup Gemfile with github-pages
 	bundle install
 
-With Jekyll installed I could then run `jekyll new .` and then customiz the `_config.yml` and welcome post in the `_posts` directory
+With Jekyll installed you can now run `jekyll new .` and then customiz the `_config.yml` and welcome post in the `_posts` directory.
 
-Finally you're done! Run `jekyll serve --watch` and you can view your site at [locahost:4000](localhost:4000).
+You are finally done! Go ahead and run `jekyll serve --watch` and you can preview your site at [locahost:4000](localhost:4000).
 
 > Actually, just kidding, if you're like me you got an error "Could not find a JavaScript runtime" and SUPRISE, you have to install that.
 
 Go ahead and grumble while you `sudo apt-get install nodejs` (seriously, you didn't think you'd actually get out of here without upgrading ruby and installing NodeJS). re-run jekyll serve. TADA!
 
-Probably want to peruse the [Jekyll Docs](http://jekyllrb.com/docs/frontmatter/)
+4 - Commit and push to publish
+---------------------------
+
+Now you reap the benefits of your labors. Sip your beverage while you easily add posts, preview them using locally, and then simply commit and push to publish to your github page. There is a lot more to learn over at the [Jekyll Docs](http://jekyllrb.com/docs/frontmatter/). Have fun!
