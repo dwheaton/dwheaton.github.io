@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Various things I'm working on, dubiously useful tidbits, etc. 
+###Hi, I'm David H. Wheaton, Programmer###
+I am self-employed and reside in Ojai, CA.  I'm currently involved in that I am planning on writing more about:
 
-I'm currently involved in that I am planning on writing more about:
-
-* django web application development (this is my bread and butter)
+* Python and django web application development. This is my bread and butter.
+* [CurbsideMe](https://www.curbsideme.com/) - Q&A site connecting doctors and industry researchers
 * system administration (working with Ansible and Docker lately)
 * Working on personal Unity3D [serious game](https://en.wikipedia.org/wiki/Serious_game) projects and enjoying C# programming
 * Expanding my horizons and learning about various software engineering paradigms:
