@@ -8,7 +8,7 @@ categories: jekyll github ubuntu 14.04
 1 - Prerequisites: urgent need for blogging, ruby >= 2.0, github account (free), beverage of choice
 ------------------------------------------------------------------------------
 
-Okay so let's say you are like me and you want to create a blog and you're tired of WordPress or whatever and just want a simple way to hack out some notes and stuff in your favorite editor and post it easily for posterity.  I'm running Ubuntu 14.04 at the moment so these instructions are specific to that but this stuff is pretty platform agnostic. Hopefully you know some [markdown](https://daringfireball.net/projects/markdown/syntax) but don't worry, you'll pick it up (I'm currently barely proficient with it which is fine).
+Okay so let's say you are like me and you want to create a bloggy site and you're tired of WordPress or whatever. You just want a simple way to hack out some notes and stuff in your favorite editor and post it easily for posterity.  I'm running Ubuntu 14.04 at the moment so these instructions are specific to that but this stuff is pretty platform agnostic. Hopefully you know some [markdown](https://daringfireball.net/projects/markdown/syntax) but don't worry, you'll pick it up (I'm currently barely proficient with it which is fine).
 
 First of all, Ubuntu 14.04 comes with ruby 1.9 which isn't supported (anymore) by jekyll. Oh joy: immediate dependency hell... *shrug* better get used to it!
 
