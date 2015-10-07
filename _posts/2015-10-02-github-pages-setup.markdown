@@ -5,6 +5,12 @@ date:   2015-10-02 21:32:00
 categories: jekyll github ubuntu 14.04
 ---
 
+Once you get the below setup you will be able to update your website with the following easy steps:
+0. Open a terminal
+1. Create/edit a file in your favorite editor
+2. Use git to add, commit, and push your changes
+> If this doesn't sound easy to you then you should probably use a different blogging platform or site-builder
+
 1 - Prerequisites: urgent need for blogging, ruby >= 2.0, github account (free), beverage of choice
 ------------------------------------------------------------------------------
 
