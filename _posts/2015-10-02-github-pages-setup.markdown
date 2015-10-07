@@ -6,9 +6,11 @@ categories: jekyll github ubuntu 14.04
 ---
 
 Once you get the below setup you will be able to update your website with the following easy steps:
+
 0. Open a terminal
 1. Create/edit a file in your favorite editor
 2. Use git to add, commit, and push your changes
+
 > If this doesn't sound easy to you then you should probably use a different blogging platform or site-builder
 
 1 - Prerequisites: urgent need for blogging, ruby >= 2.0, github account (free), beverage of choice
@@ -83,4 +85,8 @@ Go ahead and grumble while you `sudo apt-get install nodejs` (seriously, you did
 4 - Commit and push to publish
 ---------------------------
 
-Now you reap the benefits of your labors. Sip your beverage while you easily add posts, preview them using locally, and then simply commit and push to publish to your github page. There is a lot more to learn over at the [Jekyll Docs](http://jekyllrb.com/docs/frontmatter/). Have fun!
+Now you reap the benefits of your labors. Sip your beverage while you easily add posts, preview them using locally, and then simply commit and push to publish to your github page.
+
+Rejoice as you use the power of git to sync your site development across computers, collaborate on the site with others, peruse the change log, revert unwise changes, etc.
+
+There is a lot more to learn over at the [Jekyll Docs](http://jekyllrb.com/docs/frontmatter/). Have fun!
