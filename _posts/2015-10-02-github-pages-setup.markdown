@@ -70,7 +70,7 @@ With Jekyll installed you can now run `jekyll new .` and then customiz the `_con
 
 You are finally done! Go ahead and run `jekyll serve --watch` and you can preview your site at [locahost:4000](localhost:4000).
 
-> Actually, just kidding, if you're like me you got an error "Could not find a JavaScript runtime" and SUPRISE, you have to install that.
+> Actually, just kidding, if you're like me you got an error "Could not find a JavaScript runtime" and SUPRISE, you have to install one more thing :-P
 
 Go ahead and grumble while you `sudo apt-get install nodejs` (seriously, you didn't think you'd actually get out of here without upgrading ruby and installing NodeJS). re-run jekyll serve. TADA!
 
