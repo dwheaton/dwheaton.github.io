@@ -1,5 +1,6 @@
 # Site settings
 title: Sharing the Tech Love - David H. Wheaton
+email: dw+tech@dwheaton.com
 description: > # this means to ignore newlines until "baseurl:"
   Various things I'm working on, dubiously useful tidbits, etc.
 baseurl: "" # the subpath of your site, e.g. /blog/

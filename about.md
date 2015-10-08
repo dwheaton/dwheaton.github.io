@@ -33,8 +33,8 @@ Hi, I'm David Wheaton, a self-employed computer programmer living in Ojai, CA.  
   * a bunch of other [udacity](https://www.udacity.com/) courses
   * a bunch of other math classes to brush up on calculus and re-learn and extend my existing knowledge of advanced maths such as differential equations and applications like numerical methods.
 * an electronics project to make a programmable LED jo staff
-* Building a new PC
 * DJ stuff
 * Indie game programming
+* Aikido
 
 I hope to write more about these topics as time permits!

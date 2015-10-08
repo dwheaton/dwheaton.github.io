@@ -1,0 +1,41 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+Email: [dw+tech@dwheaton.com](mailto:dw+tech@dwheaton.com)
+
+###Public Key###
+
+	-----BEGIN PGP PUBLIC KEY BLOCK-----
+	Version: GnuPG v1
+
+	mQENBE320IwBCAC0wBMu8QsvnHWdqGo/rOnt21j6rMziFKSojWU79UICX3yiXRgv
+	ED5fFTlRlG2Nd8GPJa8Sn/WNj8i9oGwPoytSMdkMGUSnbKALJnW/dzTM72SizN8y
+	6JWSSRsjUrt2eGyOaoYzt1yMzubJOb/30b7QdcnO2N0UCeCRbOV/EyP4q/BV79QM
+	YSKTxhZf8VptcUtd8xLMLFAsIFJ4vr1oP98TfkAyh9xAIj+kVS5eFKb+lyDpEtcu
+	rDTn8VWg+eU3Fr8o+wmAJRmjA9SMqOWqdrL0+fiO50kiGMetlyBREZ9xRXgpxNf2
+	SFEgw+w0Nmmfa4LnHb4ciqUQ4aT/RSxrYWNHABEBAAG0I0RhdmlkIEguIFdoZWF0
+	b24gPGR3QGNyeXB0aG9zdC5jb20+iQE4BBMBAgAiBQJN9tCMAhsDBgsJCAcDAgYV
+	CAIJCgsEFgIDAQIeAQIXgAAKCRCwMxdRqsxUWMtpCACtIbhoo2XVF9WhQDED0r1L
+	987oESrmq1facyKdKoH7Mj/z0r9Jn67gPhXoozSrlD82lMmeSPMMVUvaW6pPudku
+	mgiUXN7IsnPnRdfu6FCiYbq2JiUqc9w9Nqa9EUMCSugaVhXjKnYRCrSxLTvsYSJP
+	63iHjule/FXXNYoT6HlErn+JaMgf5DlkAe4jalvJex/zKLWI9IQmME+NDb+QJshr
+	70ubuymoyvdddGrZHY/PTb2GoV2+jfB0MYRzw1A8C6u8MvtXXtn9CaXNgoqksdpo
+	s33K0aH+S75qkveY6l0nL5wlNRSnEmXPAqXyMM6/tM9v9QNJ3UuRSX68TaELz4jy
+	uQENBE320IwBCADXaQaxo1qlvnn3T2iPobOH9dYGR/i/K/Xq5hZRCwpuJed7Kp7+
+	fHjatP+z2Zv5KiaXoqtube97JMn8bb1VCboWsxx/9luBURD8/m0jkC7a9nRigvoh
+	zL8uyRTAp+Q/Bla5MSTEtovlmEMdEosNWHAFmkmFVhiGsUOajCpsgBLWggao5O/R
+	AKuRi6tBclDWHFTNiaywOMziAJoFQUuBWMD8C1o6i5e41ctodSPgyBnFm7NaBAx0
+	fQckzo9HAyRzouKFchXPNNty6c6hCeqE0XbS/AjMMjhx0Rsa7OL6nzsDa8lJ1N5D
+	uxdhp9OnC9/Pp/lLpNgKF8rSVE6+7xeusz03ABEBAAGJAR8EGAECAAkFAk320IwC
+	GwwACgkQsDMXUarMVFiZYQf+K4fyVLD6Mj72dDMC0MYlGwwOOJ99Bfn0YPPDriG/
+	liwIYA7r3n3afvJmO0KX5CoZO6L9Vr7xN1Gwy7WMqC3HMumgRumlyHWuTr8u7frv
+	x4rUOyA7ERW1dMxmi3xitqzCnMDil6k1IVrECxbGo97pP1ce0Bb2dCqiSAOIfkZc
+	6UL3A4w5VXtDjOUkktywjX5reuDy0t1XS631D+vnNseaJJiPefZ3rePJUx2JgVzl
+	2aWIvmQc3y0B76+eW0z8UYPy3ZsshA8WRzNv1MHayOlq1BbhWILEmDkFpQB5t+p+
+	Vo9j9/o5Kg/V8O095OgnhnVLaJfQXTgNp0vgCy64Anm1lQ==
+	=y3m6
+	-----END PGP PUBLIC KEY BLOCK-----
+
