@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-###Hi, I'm David H. Wheaton, Programmer###
-I am self-employed and reside in Ojai, CA.  I'm currently involved in that I am planning on writing more about:
+###What's this all about?###
+
+Hi, I'm David Wheaton, a self-employed computer programmer living in Ojai, CA.  I made this site a tech journal to keep track of projects and interests. Here's what I'm currently interested in and working on:
 
 * Python and django web application development. This is my bread and butter.
 * [CurbsideMe](https://www.curbsideme.com/) - Q&A site connecting doctors and industry researchers
@@ -31,5 +32,9 @@ I am self-employed and reside in Ojai, CA.  I'm currently involved in that I am 
   * (completed 12/26/2014) [edX Engineering Software as a Service (SaaS), Part 1 - BerkeleyX](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)
   * a bunch of other [udacity](https://www.udacity.com/) courses
   * a bunch of other math classes to brush up on calculus and re-learn and extend my existing knowledge of advanced maths such as differential equations and applications like numerical methods.
-* an electronics project to make an LED glow jo staff
+* an electronics project to make a programmable LED jo staff
+* Building a new PC
+* DJ stuff
+* Indie game programming
 
+I hope to write more about these topics as time permits!
