@@ -48,6 +48,7 @@ I've been trying to figure out the best way to construct everything so had to th
 <img src="/images/20151008_095038.jpg">
 
 Additional features I'd like to try to add at some point:
+
 * some super bright white LEDs on the ends for flashlight abilities aka Gandalf staff efects
 * other interesting sensors
 * other interesting outputs: speakers, etc
