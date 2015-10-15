@@ -51,4 +51,8 @@ Additional features I'd like to try to add at some point:
 * some super bright white LEDs on the ends for flashlight abilities aka Gandalf staff efects
 * other interesting sensors
 * other interesting outputs: speakers, etc
+* circuit to charge batteries without having to disassemble
+* wireless reprogramming capability
+* better heat dissipation/management 
+
 
