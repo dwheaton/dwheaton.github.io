@@ -38,5 +38,6 @@ Hi, I'm David Wheaton, a self-employed computer programmer living in Ojai, CA.  
 * Aikido
 * Learning some easy guitar songs to play for my kids
 * Showcase some interesting past projects: minks, flatweb, etc
+* Making audio mix CDs with Audacity
 
 I hope to write more about these topics as time permits!
