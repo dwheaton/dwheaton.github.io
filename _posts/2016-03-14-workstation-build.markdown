@@ -21,7 +21,7 @@ With a 6 core CPU, 32 GB DDR4 RAM in a quad-channel configuration, and a very fa
 The Parts
 --------------
 
-[PCPartPicker part list](http://pcpartpicker.com/p/8D3bNG) / [Price breakdown by merchant](http://pcpartpicker.com/p/8D3bNG/by_merchant/)
+[PCPartPicker completed build](https://pcpartpicker.com/b/H3LD4D) / [Price breakdown by merchant](http://pcpartpicker.com/p/8D3bNG/by_merchant/)
 
 Type|Item|Price
 :----|:----|:----
