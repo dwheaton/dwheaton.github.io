@@ -24,7 +24,8 @@ Hi, I'm David Wheaton, a self-employed computer programmer living in Ojai, CA.  
     * semantic web topics
     * and all that jazz
 * Taking quite a few online classes
-  * (current) [Coursera Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
+  * (current) [Coursera Cryptography I - Stanford University](https://www.coursera.org/learn/crypto/)
+  * (completed 10/26/2015) [Coursera Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
   * (completed 09/03/2015) [Coursera Model Thinking - University of Michigan](https://www.coursera.org/learn/modelthinking)
   * (completed 08/10/2015) [edX cs190.1x - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x)
   * (completed 05/08/2015) [edX EE40LX - Electronic Interfaces: Bridging the Physical and Digital Worlds](https://www.edx.org/course/electronic-interfaces-bridging-physical-uc-berkeleyx-ee40lx-0)
