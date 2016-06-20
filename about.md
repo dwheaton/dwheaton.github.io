@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-###What's this all about?###
+### What's this all about? ###
 
 Hi, I'm David Wheaton, a self-employed computer programmer living in Ojai, CA.  I made this site a tech journal to keep track of projects and interests. Here's what I'm currently interested in and working on:
 

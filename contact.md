@@ -6,7 +6,7 @@ permalink: /contact/
 
 Email: [dw+tech@dwheaton.com](mailto:dw+tech@dwheaton.com)
 
-###Public Key###
+### Public Key ###
 
 	-----BEGIN PGP PUBLIC KEY BLOCK-----
 	Version: GnuPG v1
